@@ -16,7 +16,7 @@ def main():
         pin = generate_pin()
         print(pin)
 
-        input_element = driver.find_element_by_css_selector("#pin-input")
+        input_element = driver.find_element_by_css_selector("#input")
 
         input_element.send_keys(str(pin))
 
