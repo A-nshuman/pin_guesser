@@ -1,5 +1,8 @@
 # Pin Guesser
 
+![GitHub top language](https://img.shields.io/github/languages/top/A-nshuman/pin_guesser)
+![GitHub repo size](https://img.shields.io/github/repo-size/A-nshuman/pin_guesser?color=yellow)
+
 A Python script that automates the process of guessing the PIN on [GuessThePin](https://www.guessthepin.com/) website.
 
 ## Table of Contents
